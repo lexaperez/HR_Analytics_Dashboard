@@ -23,8 +23,6 @@ The dashboard includes:
 ---
 
 ## 📷 Dashboard Preview
-*(Add screenshots in the `/images` folder and reference here)*  
-
 ![Dashboard Screenshot](images/dashboard_screenshot.png)
 
 ---
@@ -85,8 +83,6 @@ El dashboard incluye:
 ---
 
 ## 📷 Vista Previa del Dashboard
-*(Agrega capturas en la carpeta `/images` y referencia aquí)*  
-
 ![Dashboard Screenshot](images/dashboard_screenshot.png)
 
 ---
